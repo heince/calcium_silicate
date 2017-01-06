@@ -1,2 +1,2 @@
 # calcium_silicate
-get math combination possibility on supported size based on requested diameter and size
+get math combination possibility on supported thickness based on requested diameter and size
